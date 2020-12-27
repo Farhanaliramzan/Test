@@ -1,0 +1,5 @@
+npm init -y
+npm i express jsonwebtoken dotevn
+npm i --save-dev  nodemon
+NODE
+require('crypto').randomBytes(64).toString("hex")//GENERATE 64 RANDOM TOKEN
